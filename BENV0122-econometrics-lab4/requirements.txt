@@ -1,0 +1,4 @@
+statsmodels==0.12.2
+xlrd
+matplotlib
+sklearn
